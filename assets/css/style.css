@@ -1,0 +1,41 @@
+.text-color{
+    color: #ff4800;
+}
+.bg-color{
+    background-color: #ff4800;
+    font-weight: bold;
+}
+.bg-color:hover{background-color: #bb2d3b}
+.nav-bg-color{
+    font-weight: bold;
+}
+.nav-bg-color:hover{
+    background-color: #ff4800;
+}
+
+.banner-section{
+    height: 850px;
+    background-image: url("../img/slider01.jpg");
+}
+
+.form-card{
+    padding-top: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.banner-btn{
+    height: 60px;
+    width: 200px;
+}
+.work-btn{
+    height: 50px;
+    width: 180px;
+}
+.nav-first-img{
+    text-decoration: white;
+
+}
+.search-item{
+    padding-top: 16px;
+    padding-left: 90px;
+}
